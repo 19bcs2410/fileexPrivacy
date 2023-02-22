@@ -1,6 +1,6 @@
 PRIVACY POLICY
 
-This Privacy Policy provides our policies and procedures for collecting, using, and disclosing your information. This Privacy Policy governs your use of the software application FileEx Manager (“Application”) for mobile devices that was created by AlphaInventor, Inc.. The Application is the file explorer that helps you manage your files and folders in your device, NAS(Network-attached storage) and cloud storages like Dropbox and Google Drive.
+This Privacy Policy provides our policies and procedures for collecting, using, and disclosing your information. This Privacy Policy governs your use of the software application FileEx Manager (“Application”) for mobile devices.The Application is the fileex manager that helps you manage your files and folders in your device, .
 
 
 
